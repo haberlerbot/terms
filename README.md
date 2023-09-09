@@ -1,6 +1,3 @@
-# Kullanım Şartları
-Haberler botunu kullanmak için aşağıdaki şartları kabul etmeniz gerekmektedir:
-
 ## Kopya Kullanım
 Botun kopyasını çıkarmak veya çoğaltmak kesinlikle yasaktır. Bu tür bir girişim, kara listeye alınmanıza yol açar.
 
